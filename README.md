@@ -3,8 +3,12 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uilson-souza-566a53164/)
 
-![Uilson GitHub stats](https://github-readme-stats.vercel.app/api?username=uilsonps4&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uilsonps4&layout=stats)] (https://github.com/anuraghazra/github-readme-stats)
-<br>
+<div align="center">
+  <a href="https://github.com/uilsonps4">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=uilsonps4&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uilsonps4&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
 ## Tecnologias ultilizadas
 
